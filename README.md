@@ -40,6 +40,6 @@ lib/
 └── utils/
 
 ## 🤝 Contact
-GitHub: https://github.com/alamin-omoyele/
-LinkedIn: https://www.linkedin.com/in/al-amin-mohammed/
-Email: alamin.omoyele@gmail.com
+- GitHub: https://github.com/alamin-omoyele/
+- LinkedIn: https://www.linkedin.com/in/al-amin-mohammed/
+- Email: alamin.omoyele@gmail.com
