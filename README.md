@@ -26,7 +26,8 @@ A minimalist, locally-persisted habit tracker with an integrated Pomodoro focus 
 ## 🚀 How to Run
 ```bash
 flutter pub get
-flutter run
+flutter run 
+```
 
 ## 📁 Project Structure
 lib/
