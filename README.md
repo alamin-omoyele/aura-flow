@@ -1,17 +1,44 @@
-# aura_flow
+# 🌿 Aura Flow - Habit Tracker & Focus Timer
 
-A new Flutter project.
+A minimalist, locally-persisted habit tracker with an integrated Pomodoro focus timer. Built with Flutter, focusing on clean UI, smooth interactions, and offline-first functionality.
 
-## Getting Started
+## ✨ Features
+- 📋 **Habit Tracking** – Create, complete, and track daily habits with streak counters
+- ⏱️ **Focus Timer** – Built-in Pomodoro timer with session logging
+- 🌙 **Light/Dark Mode** – System-aware theme switching
+- 💾 **Offline-First** – All data persists locally using Hive
+- 📊 **Stats & History** – View completion rates and focus logs
+- 📱 **Responsive Layout** – Scroll-safe, constraint-aware widgets
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- Flutter & Dart
+- `flutter_riverpod` (state management)
+- `hive` / `hive_flutter` (local persistence)
+- `go_router` (navigation)
+- `fl_chart` (data visualization)
+- Material 3 theming
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+| Dashboard | Focus Timer | Statistics |
+|-----------|-------------|------------|
+| ![Dashboard](screenshots/dashboard.png) | ![Timer](screenshots/timer.png) | ![Stats](screenshots/stats.png) |
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 How to Run
+```bash
+flutter pub get
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📁 Project Structure
+lib/
+├── main.dart
+├── models/
+├── services/
+├── providers/
+├── screens/
+├── widgets/
+└── utils/
+
+## 🤝 Contact
+GitHub: https://github.com/alamin-omoyele/
+LinkedIn: https://www.linkedin.com/in/al-amin-mohammed/
+Email: alamin.omoyele@gmail.com
